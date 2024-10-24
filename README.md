@@ -1,24 +1,7 @@
 # Olá, Tudo Bem?
 
 ## Sobre mim 
-Sou Estudante de desenvolvimento web FullStack e tenho interesse em expandir minha área de conhecimento para além do desenvolvimento web. Tenho interesse em aprender sobre áreas como Desenvolvimento de Jogos, Mobile e Desktop, e em adotar as melhores práticas de desenvolvimento.
-
-Atualmente, possuo conhecimento em diversas linguagens e ferramentas, tais como:
-
-+ TypeScript
-+ JavaScript
-+ Node.js
-+ React.js
-+ Next.js
-+ Electron
-+ Prisma
-+ Express
-+ MongoDB e Mongoose
-+ Styled Components
-+ Git e GitHub
-+ C#
-+ Python
-
+Pessoa Desenvolvedora Fullstack com visão ampla e multidisciplinar, comprometido com a expansão contínua do conhecimento além do desenvolvimento web. Com interesse particular em áreas como Desenvolvimento de Jogos, Aplicações Mobile e Desktop, busco implementar as melhores práticas de desenvolvimento para garantir soluções eficientes e de alta qualidade. Sou proficiente em tecnologias como TypeScript, Node, React e Lua, e estou constantemente em busca de novas oportunidades para aprimorar minhas habilidades e conhecimentos. Aberto a desafios que contribuam para o crescimento profissional, meu objetivo é integrar inovação e eficiência em cada projeto que realizo.
 
 Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento, e estou aberto a desafios que possam me ajudar a crescer profissionalmente.
 
