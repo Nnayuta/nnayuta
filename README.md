@@ -1,9 +1,18 @@
-# Olá, Tudo Bem?
+# 👋 Olá,
 
-## Sobre mim 
-Pessoa Desenvolvedora Fullstack com visão ampla e multidisciplinar, comprometido com a expansão contínua do conhecimento além do desenvolvimento web. Com interesse particular em áreas como Desenvolvimento de Jogos, Aplicações Mobile e Desktop, busco implementar as melhores práticas de desenvolvimento para garantir soluções eficientes e de alta qualidade. Sou proficiente em tecnologias como TypeScript, Node, React e Lua, e estou constantemente em busca de novas oportunidades para aprimorar minhas habilidades e conhecimentos. Aberto a desafios que contribuam para o crescimento profissional, meu objetivo é integrar inovação e eficiência em cada projeto que realizo.
+## Sobre mim
 
-Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento, e estou aberto a desafios que possam me ajudar a crescer profissionalmente.
+Desenvolvedora Fullstack focada em aplicações web modernas, com experiência prática em construção de APIs, interfaces escaláveis e sistemas em tempo real.
+Trabalho principalmente com TypeScript, Node.js e React, desenvolvendo aplicações completas — do backend ao frontend — com foco em performance, organização de código e boas práticas.
+Também tenho experiência com desenvolvimento em ambientes como FiveM (Lua), criando sistemas customizados e otimizados.
+Atualmente explorando: arquitetura de software, componentização avançada e aplicações escaláveis.
+
+## 🚀 Diferenciais
+
+- Experiência prática com projetos reais (incluindo FiveM)
+- Forte foco em organização e componentização de frontend
+- Facilidade em aprender novas tecnologias rapidamente
+- Experiência construindo sistemas do zero
 
 <div>
 	<a href="https://github.com/Nnayuta">
