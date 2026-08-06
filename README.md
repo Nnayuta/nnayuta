@@ -1,34 +1,81 @@
-# 👋 Olá,
+# 👋 Olá, eu sou o Nay!
 
-## Sobre mim
+Software Engineer com foco em desenvolvimento **Full Stack**, especializado na construção de aplicações web escaláveis, APIs REST e sistemas de alta performance utilizando **Node.js**, **TypeScript** e **React**.
 
-Desenvolvedora Fullstack focada em aplicações web modernas, com experiência prática em construção de APIs, interfaces escaláveis e sistemas em tempo real.
-Trabalho principalmente com TypeScript, Node.js e React, desenvolvendo aplicações completas — do backend ao frontend — com foco em performance, organização de código e boas práticas.
-Também tenho experiência com desenvolvimento em ambientes como FiveM (Lua), criando sistemas customizados e otimizados.
-Atualmente explorando: arquitetura de software, componentização avançada e aplicações escaláveis.
+Tenho experiência no desenvolvimento de aplicações completas, arquitetura de software, integrações entre serviços, bancos de dados SQL e ambientes Linux. Também atuo no desenvolvimento de sistemas para servidores FiveM, criando soluções backend, ferramentas administrativas e aplicações web.
 
-## 🚀 Diferenciais
+---
 
-- Experiência prática com projetos reais (incluindo FiveM)
-- Forte foco em organização e componentização de frontend
-- Facilidade em aprender novas tecnologias rapidamente
-- Experiência construindo sistemas do zero
+## 🚀 Tecnologias
 
-<div>
-	<a href="https://github.com/Nnayuta">
-	<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nnayuta&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,8e2de2,4a00e0&title_color=fff&icon_color=fff&border_color=000&text_color=fff"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nnayuta&layout=compact&langs_count=7&bg_color=45,8e2de2,4a00e0&title_color=fff&icon_color=fff&border_color=000&text_color=fff"/>
+### Backend
+
+- Node.js
+- TypeScript
+- Fastify
+- Express.js
+- REST APIs
+- Prisma ORM
+
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+- HTML
+- CSS
+- JavaScript
+
+### Banco de Dados
+
+- MySQL
+- MariaDB
+- MongoDB
+
+### DevOps
+
+- Docker
+- Linux
+- Nginx
+- Git
+- GitHub
+
+---
+
+## 📌 Destaques
+
+- Desenvolvimento de aplicações Full Stack
+- Arquitetura de Software
+- APIs REST
+- Sistemas escaláveis
+- Integração entre serviços
+- Desenvolvimento para FiveM
+- Bots para Discord
+- Modelagem de Banco de Dados
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
 </div>
-  
-## ⛭ SKILLS
-  
-<div style="display: inline_block">
-	<img align="center" alt="Nay-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-	<img align="center" alt="Nay-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Nay-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img align="center" alt="Nay-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />
-	<img align="center" alt="Nay-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="Nay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Nay-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-	<img align="right" alt="Nay-pic" height="150" style="border-radius:50px;" src="http://github.com/nnayuta.png">
-</div>
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/seu-link
+- 📧 Email: seuemail@email.com
