@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Nay!
+# 👋 Olá, eu sou Nay!
 
 Software Engineer com foco em desenvolvimento **Full Stack**, especializado na construção de aplicações web escaláveis, APIs REST e sistemas de alta performance utilizando **Node.js**, **TypeScript** e **React**.
 
