@@ -72,10 +72,3 @@ Tenho experiência no desenvolvimento de aplicações completas, arquitetura de 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 
 </div>
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://linkedin.com/in/seu-link
-- 📧 Email: seuemail@email.com
