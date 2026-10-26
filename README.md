@@ -1,41 +1,53 @@
 # Olá, sou Wesley Dantas 👋
 
-Desenvolvedor **Full Stack / Backend** com cerca de 2 anos de experiência prática construindo APIs RESTful escaláveis, arquiteturas orientadas a serviços e interfaces web modernas.
+**Desenvolvedor Back-end / Full Stack** com mais de 2 anos de experiência construindo e mantendo sistemas em produção com **Node.js, TypeScript e React**. Gosto de APIs bem estruturadas, bancos de dados rápidos e infraestrutura que não cai de madrugada.
 
-Foco primário na construção de microsserviços e sistemas robustos em **Node.js (TypeScript / Fastify / Express)** e **C#**, com modelagem e otimização de bancos relacionais (**PostgreSQL / MySQL**), além do desenvolvimento frontend reativo com **React** e **Next.js**.
+Antes de programar profissionalmente, trabalhei com suporte e redes (Stefanini), então também me sinto em casa com Linux, logs e resolução de incidentes.
 
----
-
-### 🛠️ Stack & Habilidades
-
-- **Backend:** Node.js, TypeScript, C#, Fastify, Express, Prisma ORM, APIs RESTful, JWT, WebSockets
-- **Bancos de Dados:** PostgreSQL, MySQL, MariaDB, modelagem relacional, otimização de queries e indexação
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, consumo e integração de APIs
-- **DevOps & Ferramentas:** Docker, Linux (Ubuntu/Debian), Nginx, Git, GitHub Actions
+📍 Brasil · 💼 Disponível para oportunidades como desenvolvedor · 📩 wesdantas97@gmail.com · [LinkedIn](https://www.linkedin.com/in/wesley-dantas/)
 
 ---
 
-### 💻 Destaques de Engenharia & Projetos
+## 🛠️ Stack
 
-- **Arquitetura de APIs & Performance:** Desenvolvimento de serviços com validação estrita de esquemas, paginação eficiente e resolução de gargalos de banco (queries N+1, otimização de índices).
-- **Aplicações em Tempo Real & Concorrência:** Criação de sistemas distribuídos com alta taxa de concorrência, comunicação bidirecional e persistência de dados transacionais.
-- **Integração de Mídia e Automação:** Microsserviços para processamento assíncrono de arquivos, rotinas de background jobs e comunicação entre plataformas corporativas.
+| Área | Tecnologias |
+|---|---|
+| **Back-end** | Node.js, TypeScript, Fastify, Express, C# / .NET, APIs REST, JWT, RBAC |
+| **Front-end** | React, Vite, Tailwind CSS |
+| **Dados** | MySQL / MariaDB, PostgreSQL, SQLite, Prisma ORM |
+| **Infra** | Docker, Docker Compose, Linux (Ubuntu/Debian), Nginx, Git |
 
 ---
 
-### 🌐 Tecnologias em Uso
+## 🚀 Projetos em destaque
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="36" alt="Fastify"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/>
-</div>
+### 📊 [FiveLog](https://github.com/Nnayuta/fivelog)
+Plataforma SaaS multi-tenant de **gerenciamento de logs e armazenamento de mídia**.
+API REST com Fastify, dashboard em React, múltiplas API keys por usuário, rate limiting por plano, upload de mídia e limpeza automática de logs.
+`TypeScript` `Fastify` `React` `Prisma` `Docker`
+
+### 🎮 [Mysts of Krakovia (servidor)](https://github.com/Nnayuta/KrakoviaServer)
+Servidor **autoritativo de MMORPG** em C# / .NET 9, criado em 30 dias (game jam).
+Rede TCP/UDP própria, loop de tick monitorado, spatial grid com interest management, IA de NPCs, combate, missões e persistência em MariaDB com BCrypt.
+`C#` `.NET 9` `TCP/UDP` `MariaDB`
+
+---
+
+## 💼 O que já fiz em produção
+
+- Mantive sozinho uma plataforma multiplayer: código, servidor Linux, Nginx, deploy e bot de Discord, com **99,8% de disponibilidade**.
+- Desenvolvi **10+ microsserviços e rotas REST** em Node.js e TypeScript.
+- Implementei autenticação **JWT + RBAC** nas rotas transacionais.
+- Otimizei queries e índices em bases com **50 mil+ registros**, reduzindo em 40% o tempo de resposta sob concorrência.
+
+---
+
+## 🎯 Em que estou focado
+
+- Escrever **testes automatizados** (Vitest) e **CI** para os meus projetos.
+- Aprofundar em **cloud** e boas práticas de deploy.
+- Entrar em um time para aprender com code review e entregar software confiável.
+
+---
+
+📫 **Vamos conversar?** [LinkedIn](https://www.linkedin.com/in/wesley-dantas/) · wesdantas97@gmail.com
